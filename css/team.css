@@ -1,0 +1,23 @@
+#team {
+  background-color: #f4f4fd;
+}
+
+#team h2 {
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.product-designer,
+.frontend-developer,
+.marketing,
+.ui-designer {
+  background-color: #ffffff;
+}
+
+#team h3,
+#team p {
+  text-align: center;
+}

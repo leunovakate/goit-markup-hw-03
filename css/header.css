@@ -1,0 +1,32 @@
+.main-logo {
+  font-family: Raleway, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  text-decoration: none;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.main-logo .accent {
+  color: #4d5ae5;
+}
+
+.header-nav li a {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.header-address li a {
+  color: #434455;
+  text-decoration: none;
+}
+
+.header-nav li a:hover,
+.header-nav li a:focus,
+.header-address li a:hover,
+.header-address li a:focus {
+  color: #404bbf;
+}
