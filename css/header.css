@@ -1,9 +1,10 @@
 .main-logo {
   font-family: Raleway, sans-serif;
+  color: #2e2f42;
   font-weight: 700;
   font-size: 18px;
   text-decoration: none;
-  line-height: 1.16667;
+  line-height: 1.33;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -16,11 +17,18 @@
   color: #2e2f42;
   font-weight: 500;
   font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   text-decoration: none;
 }
 
 .header-address li a {
   color: #434455;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   text-decoration: none;
 }
 
