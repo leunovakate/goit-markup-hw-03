@@ -19,3 +19,17 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
+.features-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 0px 15px;
+  margin: 120px 141px;
+}
+
+.list-item h3 {
+  padding-bottom: 8px;
+}

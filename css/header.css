@@ -38,3 +38,37 @@
 .header-address li a:focus {
   color: #404bbf;
 }
+
+.header .container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 0px;
+  padding: 24px 15px;
+  width: 1158px;
+  height: 72px;
+  max-width: 1158px;
+  margin-left: 141px;
+  margin-right: 141px;
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.header-nav {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 40px;
+  margin-left: 76px;
+  width: 253px;
+}
+
+.address-items {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 40px;
+  padding-left: 340px;
+}
