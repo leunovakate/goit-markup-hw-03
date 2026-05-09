@@ -4,7 +4,7 @@
   padding: 100px 0px;
 }
 
-.footer p {
+.container p {
   color: #f4f4fd;
   max-width: 264px;
 }
@@ -13,7 +13,7 @@
   color: #f4f4fd;
 }
 
-.footer a {
+.container a {
   color: #4d5ae5;
   font-weight: 700;
   font-size: 18px;
@@ -27,4 +27,5 @@
 .footer .container {
   display: flex;
   flex-direction: column;
+  padding: 0px 15px;
 }

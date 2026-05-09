@@ -64,7 +64,7 @@
   justify-content: flex-start;
   flex-direction: row;
   gap: 40px;
-  padding-left: 340px;
+  margin-left: 340px;
 }
 
 .header-nav li a,
