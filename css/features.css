@@ -11,6 +11,7 @@
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 
 .list-item p {
@@ -22,14 +23,17 @@
 
 .features-list {
   display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: flex-start;
   gap: 24px;
-  padding: 0px 15px;
-  margin: 120px 141px;
 }
 
 .list-item h3 {
   padding-bottom: 8px;
+}
+
+.features {
+  padding: 120px 0px;
+}
+
+.features-list .list-item {
+  width: calc((100% - 72px) / 4);
 }
